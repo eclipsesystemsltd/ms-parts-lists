@@ -1,0 +1,167 @@
+*manufacturer Triumph
+*major_model 650cc Unit Twin
+*minor_model TR65 Thunderbird
+*year 1982,1983
+*publication_part_no 99-7507
+
+*title Engine and Gearbox
+*page 3
+1  71-7573 Crankshaft & flywheel assembly $1
+2  71-7574 Crankshaft assembly $1
+3  71-7558 Connecting rod assembly $2
+4  71-7560 Piston assembly, std. $2
+5  71-7563 Cylinder block $1
+6  71-7505 Cylinder head sub-assembly $1
+7  71-7504 Cylinder head assembly $1
+8  71-7564 Cover tube assembly, push rods $2
+9  71-7566 Push rod assembly $2
+10 21-1871 Blanking Plug, tachometer gearbox $1
+11 70-8896 Washer, tachometer gearbox blanking plug $1
+12 71-7583 Bolt, flywheel $1
+*title Engine and Gearbox Covers
+*page 5
+1  71-7549 Rocker box assembly, exhaust $1
+2  71-7551 Rocker box assembly, inlet $1
+3  71-7552 Cover, rocker box $2
+4  71-7576 Timing cover assembly $1
+5  71-7547 Primary Cover Assembly $1
+6  71-7553 Cover, contact breaker $1
+7  57-7071 Cover, gearbox outer $1
+*title Manifold, Gearbox Sprocket, and Engine Mountings
+*page 7
+1  71-7555 Manifold, inlet $1
+ 2
+  > As TR7
+ 9
+10 14-0129 Bolt, engine torque stay `14-0129/004 $1
+11 21-7122 Spacer, engine torque stay $1
+12 57-4783 Gearbox sprocket, 19T $1
+*title Carburettor
+*page 9
+ /* All other items as TR7 carburettor
+1  60-7491 Carburettor *Amal_R930/108 $1
+17 99-0451 Main Jet (240) *Amal_376/100/240 $1
+*title Swinging Arm and Suspension Units
+*page 11
+1  83-8044 Swinging arm assembly, c/w bushes $1
+NI 83-7969 Swinging arm $1
+3  60-7518 Suspension unit $2
+*title Air Filters and Side Panels
+*page 13
+ 1
+ 7 As TR7
+8  83-8115 Styling side panel, L.H. $1
+9  83-8116 Styling side panel, R.H. $1
+10 83-8039 Name plate, "Thunderbird" $2
+11 60-7511 Grip, push-on name plate $4
+ 12
+ 14 As TR7
+*title Brake Pedal and Fittings
+*page 15
+1  83-7997 Brake pedal, complete $1
+2  83-7990 Rod assembly, rear brake $1
+3  60-4252 Pivot pin, rear brake rod $1
+4  60-2683 Split pin, rear brake rod pivot pin $1
+5  23-1012 Screw, stop lamp switch, brake pedal `23-1012/004 $1
+6  23-2001 Nut, stop lamp switch, brake pedal `23-2001/004 $1
+7  83-7736 Spindle, rear brake $1
+8  60-7343 Circlip, rear brake spindle $1
+9  60-7353 Cap, rear brake spindle end $1
+10 60-2322 Washer, rear brake spindle $1
+11 83-8055 Back plate assembly, rear brake pedal spindle $1
+12 14-0301 Nut, rear brake pedal stop `14-0301/004 $1
+13 14-0103 Screw, rear brake pedal stop `14-0103/004 $1
+*title Footrests
+*page 17
+  1  As T140
+2  83-8117 Footrest assembly, pillion, R.H. $1
+3  83-8112 Hanger, pillion footrest, R.H. $1
+  4  As T140
+*title Control Cables
+*page 19
+1  60-7184 Throttle cable, complete, high bar $1
+2  60-7183 Throttle cable, complete, low bar $1
+3  60-4194 Cold start cable $1
+*title Mudguard Fittings
+*page 21
+1  97-7183 Stay, front mudguard $1
+2  83-8022 Grab rail $1
+3  83-8098 Carrier, rear lamp $1
+*title Instruments
+*page 23
+1  97-7154 Switch box, instrument carrier $1
+2  60-7433 Transfer, instrument carrier switch box $1
+3  97-7156 Centre bracket, instruments $1
+4  97-7182 Carrier, speedometer, L.H. $1
+5  97-5061 Grommet, instrument carrier $1
+*title Electrical
+*page 25
+1  60-2203 Coil, ignition $1
+2  60-2244 Contact breaker assembly $1
+3  60-7018 Condenser $1
+4  60-7525 Switch assembly, handlebar,  R.H. $1
+5  70-7905 Alternator $1
+6  60-7526 Zenor diode pack $1
+7  60-7528 Rectifier $1
+8  21-7024 Washer, ignition switch $1
+9  60-7468 Ignition switch $1
+10 60-7239 Warning lamp, red $1
+11 60-7469 Warning lamp, blue $1
+12 60-4240 Warning lamp, green $1
+13 60-4238 Warning lamp, amber $1
+14 60-4408 Sealing washer, warning lamps $4
+NI 60-7527 Wiring harness $1
+*title Front Wheel
+*page 27
+1  37-7191 Front wheel, complete $1
+2  37-7192 Rim, spokes & hub assembly $1
+3  37-7186 Hub, front, L.H. half $1
+4  37-7187 Hub, front, R.H. half $1
+*title Rear Wheel
+*page 29
+1  37-7147 Rear wheel complete,  with sprocket/brake drum $1
+3  37-7140 Hub, rear, R.H. half $1
+4  37-7042 Bearing, rear wheel, R.H. $1
+5  37-7134 Spacer, rear wheel bearing, R.H. $1
+6  37-7155 Locking ring, rear wheel bearing, R.H. $1
+7  37-7138 Brake drum, rear wheel $1
+8  21-7085 Bolt, rear wheel drum to hub $4
+9  37-7064 Sprocket, 47T $1
+10 37-7179 Anchor plate assembly, rear brake $1
+11 37-7146 Anchor plate, rear brake $1
+12 37-3870 Pivot pin, rear brake $1
+13 60-2333 Washer, rear brake torque armr $1
+14 14-1305 Nut, rear brake torque arm `14-1305-004 $1
+15 37-7176 Spindle assembly, rear brake cam $1
+16 21-7109 Washer, rear brake cam spindle $1
+17 37-1406 Brake shoe assembly, leading $1
+18 37-1407 Brake shoe assembly, trailing $1
+19 37-1415 Pad, brake shoe $2
+20 37-0135 Spring, brake shoe return $2
+21 37-2014 Operating lever, rear brake $1
+22 37-7178 Spring, rear brake operating lever $1
+23 60-2332 Washer, rear brake operating lever $1
+24 14-1903 Nut, rear brake operating lever `14-1903-004 $1
+25 83-2656 Torque stay, rear brake $1
+26 21-7111 Bolt, torque stay to swinging arm $1
+27 60-2332 Washer, torque stay to swinging arm $1
+28 14-1904 Nut, torque stay to swinging arm `14-1904-004 $1
+29 37-7188 Hub, rear, L.H. half $1
+30 37-0011 Roller, rear brake lever $1
+31 82-7387 Nut, rear brake rod adjuster $1
+NI 60-7529 Chain, rear $1
+*title Exhaust Pipes and Silencer
+*page 31
+1  71-7539 Exhaust pipe, short, R.H. $1
+2  71-7568 Exhaust pipe, Y-piece, L.H. $1
+3  71-7556 Silencer $1
+4  71-7535 Finned clip, exhaust pipes $2
+5  70-7512 Clip, exhaust pipe joint $1
+6  70-5874 Clip, exhaust pipe to silencer $1
+7  70-6744 Screw, exhaust pipe clip $2
+8  70-8860 Washer, exhaust pipe clip $2
+*title Petrol Tank
+*page 33
+1  83-8089 Petrol tank, 4.0 gallon $1
+1  83-8090 Petrol tank, 3.0 gallon $1
+*end

@@ -1,0 +1,210 @@
+*manufacturer Triumph
+*major_model 750cc Unit Twin
+*minor_model TR7T Tiger Trail
+*year 1982,1983
+*publication_part_no 99-7507
+
+*title Engine and Gearbox
+*page 3
+ 1 As T140
+2  71-7349 Camshaft, inlet $1
+ 3  |
+    > As TR7
+ 12 |
+13 57-4784 Sprocket, gearbox, 18T $1
+14 21-1871 Blanking Plug, tachometer gearbox $1
+15 70-8896 Washer, tachometer gearbox blanking plug $1
+*page 5
+*title Carburettor
+ 1 60-7491 Carburettor *Amal_R930/108 $1
+17 99-0451 Main Jet (240) *Amal_376/100/240 $1
+*page 7
+*title Exhaust Pipes and Silencer
+1  71-7538 Exhaust pipe, Y-piece, L.H. $1
+2  71-7539 Exhaust pipe, short, R.H. $1
+3  71-7537 Silencer $1
+4  83-8032 Bracket, silencer mounting $1
+5  71-7535 Finned clip, exhaust pipes $2
+6  70-7512 Clip, exhaust pipe joint $1
+7  70-5874 Clip, exhaust pipe to silencer $1
+8  70-6744 Screw, exhaust pipe clip $2
+9  70-8860 Washer, exhaust pipe clip $2
+10 14-0102 Bolt, silencer to bracket `14-0102-004 $2
+11 60-2338 Washer, silencer to bracket $2
+12 14-1201 Nut, silencer to bracket `14-1201-004 $2
+*page 9
+*title Swinging Arm and Suspension Units
+1  83-8044 Swinging arm assembly, c/w bushes $1
+NI 83-7969 Swinging arm $1
+3  60-7449 Suspension units $2
+*page 11
+*title Footrests
+1  83-2858 Hanger, footrest, L.H. $1
+2  83-2859 Hanger, footrest, R.H. $1
+3  83-4684 Footrest assembly complete, L.H. $1
+4  83-4685 Footrest assembly complete, R.H. $1
+5  83-3095 Spring, footrest return $2
+6  83-3094 Anchor peg, footrest return spring $2
+7  83-8097 Spacer, footrest bolt $2
+8  14-0217 Pivot bolt, footrest to hanger `14-0217-004 $2
+9  14-1902 Nut, footrest to hanger `14-1902-004 $2
+*page 12
+*title Brake Pedal and Fittings
+1  83-7997 Brake pedal, complete $1
+2  83-7998 Rod assembly, rear brake $1
+3  60-4252 Pivot pin, rear brake rod $1
+4  60-2683 Split pin, rear brake rod pivot pin $1  /* 83-2683 in list, 60- for TR65 ?
+5  23-1012 Screw, stop lamp switch, brake pedal `23-1012/004 $1
+6  23-2001 Nut, stop lamp switch, brake pedal `23-2001/004 $1
+7  83-7736 Spindle, rear brake $1
+8  60-7343 Circlip, rear brake spindle $1
+9  60-7353 Cap, rear brake spindle end $1
+10 60-2322 Washer, rear brake spindle $1
+11 83-8055 Back plate assembly, rear brake pedal spindle $1
+12 14-0301 Nut, rear brake pedal stop `14-0301/004 $1
+13 14-0103 Screw, rear brake pedal stop `14-0103/004 $1
+*title Frame Fittings
+*page 15
+1  83-7982 Undershield, crankcase $1
+2  83-7909 Bracket, crankcase undershield $2
+3  83-7967 Distance piece, crankcase undershield, rear L.H. $1
+4  83-7968 Distance piece, crankcase undershield, rear R.H. $1
+5  14-0102 Bolt, bracket to crankcase undershield `14-0102-004 $2
+6  14-1901 Nut, bracket to crankcase undershield `14-1901-004 $2
+7  60-2320 Washer, bracket to crankcase undershield $4
+*title Telescopic Forks
+*page 17
+1  97-7175 Fork assembly, complete $1
+2  97-7160 Bottom yoke assembly, front forks $1
+3  83-7987 Lock plate assembly, front forks $1
+4  21-7110 Shear bolt, front forks $1
+5  60-7487 Rivet, lock retaining, front forks $1
+6  97-7151 Bracket, rigid handlebar mounting, bottom $2
+7  97-7152 Clamp, rigid handlebar mounting, top $2
+8  14-1019 Screw, handlebar mounting clamp `14-1019-004 $4
+9  14-1036 Bolt, handlebar bracket to top yoke `14-1036-004 $2
+10 97-7168 Washer, handlebar bracket to top yoke $2
+11 97-7148 Cap, wheel spindle, L.H. & R.H. $2
+12 97-1510 Fork gaitor $2
+*title Handlebars
+*page 19
+1  97-7149 Handlebar, braced $1
+2  60-7471 Grip, twist grip rotor $1
+3  60-7470 Grip, handlebar, L.H. $1
+*title Front Wheel
+*page 21
+1  37-7184 Front wheel complete, less tyre & tube $1
+2  37-7169 Rim, spokes, & hub assembly $1
+3  37-7174 Rim, WM1 x 21" $1
+4  37-7170 Spoke, inner $20
+5  37-7171 Spoke, outer $20
+6  37-7034 Nipple, spoke $40
+NI 60-7436 Tyre, 3.OO x 21 Avon Mudplugger $1
+8  37-3584 Security bolt, 21" wheel $1
+9  37-7186 Hub, front, L.H. half $1
+10 37-7187 Hub, front, R.H. half $1
+*page 27
+*title Rear Wheel
+1  37-7147 Rear wheel complete,  with sprocket/brake drum $1
+NI 60-7435 Rear tyre, 4.00 x 18, Avon Mudplugger $1
+3  37-7140 Hub, rear, R.H. half $1
+4  37-7042 Bearing, rear wheel, R.H. $1
+5  37-7134 Spacer, rear wheel bearing, R.H. $1
+6  37-7155 Locking ring, rear wheel bearing, R.H. $1
+7  37-7138 Brake drum, rear wheel $1
+8  21-7085 Bolt, rear wheel drum to hub $4
+9  37-7064 Sprocket, 47T $1
+10 37-7179 Anchor plate assembly, rear brake $1
+11 37-7146 Anchor plate, rear brake $1
+12 37-3870 Pivot pin, rear brake $1
+13 60-2333 Washer, rear brake torque armr $1
+14 14-1305 Nut, rear brake torque arm `14-1305-004 $1
+15 37-7176 Spindle assembly, rear brake cam $1
+16 21-7109 Washer, rear brake cam spindle $1
+17 37-1406 Brake shoe assembly, leading $1
+18 37-1407 Brake shoe assembly, trailing $1
+19 37-1415 Pad, brake shoe $2
+20 37-0135 Spring, brake shoe return $2
+21 37-2014 Operating lever, rear brake $1
+22 37-7178 Spring, rear brake operating lever $1
+23 60-2332 Washer, rear brake operating lever $1
+24 14-1903 Nut, rear brake operating lever `14-1903-004 $1
+25 83-2656 Torque stay, rear brake $1
+26 21-7111 Bolt, torque stay to swinging arm $1
+27 60-2332 Washer, torque stay to swinging arm $1
+28 14-1904 Nut, torque stay to swinging arm `14-1904-004 $1
+29 37-7188 Hub, rear, L.H. half $1
+30 37-0011 Roller, rear brake lever $1
+31 82-7387 Nut, rear brake rod adjuster $1
+NI 60-1915 Chain, rear, 106 link $1
+*title Seat
+*page 25
+1  83-7983 Seat complete $1
+*title Petrol Tank
+*page 27
+1  83-7996 Petrol tank $1
+2  60-7445 Transfer, petrol tank, L.H. top $1
+-- 60-7446 Transfer, petrol tank, R.H. top $1
+3  60-7443 Transfer, petrol tank, L.H. lower $1
+-- 60-7444 Transfer, petrol tank, R.H. lower $1
+4  60-7442 Transfer, petrol tank, "Triumph" $2
+5  60-7455 Filler cap, petrol tank $1
+*page 33
+*title Air Filters and Side Panels
+ 1
+ 7 As TR7
+8  83-8008 Styling side panel, L.H. $1
+9  83-8009 Styling side panel, R.H. $1
+10 83-8096 Name plate, "Tiger Trail" $2
+11 60-7511 Grip, push-on name plate $4
+ 12
+ 14 As TR7
+*title Mudguards
+*page 31
+1  97-7166 Mudguard, front $1
+2  97-7165 Bracket, front mudguard $1
+3  14-0218 Bolt, mudguard to fork stem $1
+4  60-2329 Washer, mudguard to fork stem $1
+5  60-2427 Spring washer, mudguard to fork stem $1
+6  14-0115 Bolt, front mudguard to bracket `14-0115-004 $4
+7  60-2330 Washer, front mudguard to bracket $4
+8  60-2428 Spring washer, front mudguard to bracket $4
+9  83-8007 Mudguard, rear, front half $1
+10 83-8017 Bridge bracket, rear mudguard $1
+11 83-8077 Mudguard, rear, rear half $1
+12 14-0102 Bolt, mudguard rear half to bridge `14-0102-004 $2
+13 60-2329 Washer, mudguard rear half to bridge $2
+14 14-1301 Nut, mudguard rear half to bridge `14-1301-004 $2
+14 14-1301 Nut, mudguard rear half to bridge `14-1301-004 $2 /* 2 lots of these ?
+15 82-4299 Washer, rear mudguard mounting $2
+16 21-7118 Washer, rear mudguard mounting $2
+*title Control Cables
+*page 33
+1  60-7184 Throttle cable, complete, high bar $1
+2  60-4194 Cold start cable $1
+*title Instruments
+*page 35
+1  97-7154 Switch box, instrument carrier $1
+2  60-7433 Transfer, instrument carrier switch box $1
+3  97-7156 Centre bracket, instruments $1
+4  97-7182 Carrier, speedometer, L.H. $1
+5  97-5061 Grommet, instrument carrier $1
+*page 23
+*title Electrical
+NI 60-7458 Wiring harness $1
+2  60-7492 Wiring harness, tail light $1
+3  60-7447 Rear light assembly $1
+4  60-7453 Headlight, L.H. dip $1
+NI 60-7454 Headlight, R.H. dip $1
+6  60-7468 Ignition switch $1
+7  60-4239 Warning lamp, red $1
+8  60-7469 Warning lamp, blue $1
+9  60-4240 Warning lamp, green $1
+10 60-4238 Warning lamp, amber $1
+11 60-4408 Sealing washer, warning lamps $4
+12 83-8076 Bracket, rear indicator lamps $1
+13 60-7499 Feed wire, L.H. indicator, rear $1
+14 60-7500 Earth wire, L.H. indicator, rear $1  /* Really RH ?
+15 97-7167 Grill, headlamp stone guard $1
+16 97-7169 Distance piece, headlamp $2
+*end

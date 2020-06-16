@@ -1,0 +1,880 @@
+*manufacturer Triumph
+*major_model 150cc Single
+*minor_model Terrier
+*year 1953
+*engine_number T15-101
+*publication_part_no No_1
+
+*page 5
+*title Carton Packs
+-- CP125   Big end assembly, 1 E3163 connecting rod assembly, 1 E3291 crankpin, 15 E3162 rollers $1
+-- CP126   Big end assembly (export only), 1 E3165 bush, big end, 1 E1762 bush, small end, 1 E3291 crankpin, 15 E3162 rollers $1
+-- CP128   Brake linings, 2 W978 linings, 14 W979 rivets $1
+-- CP127   Clutch inserts, 20 T1127 cork insert, sprocket, 20 NT288 cork insert, plate $1
+-- CP120   Piston assembly, 1 E3148 piston body, 2 E3153 ring, compression, 1 E3154 ring, scraper, 1 E1750 pin, gudgeon, 2 E1767 circlip $1
+-- CP120/+ Piston assembly, 1 E3148/20 piston body +020", 2 E3153/20 ring, compression, 1 E3154/20 ring, scraper, 1 E1750 pin, gudgeon, 2 E1767 circlip `CP120/20 $1
+-- CP120/+ Piston assembly, 1 E3148/40 piston body +040", 2 E3153/40 ring, compression, 1 E3154/40 ring, scraper, 1 E1750 pin, gudgeon, 2 E1767 circlip `CP120/40 $1
+*page 6
+-- CP121   Piston rings, 2 E3153 ring, compression, 1 E3154 ring, scraper $1
+-- CP121/+ Piston rings, 2 E3153/20 ring, compression +020", 1 E3154/20 ring, scraper `CP121/20 $1
+-- CP121/+ Piston rings, 2 E3153/40 ring, compression +040", 1 E3154/40 ring, scraper `CP121/40 $1
+-- CP130   Rear Suspension Spring Set, 2 F3425 spring, main, 2 F3426 spring, rebound $1
+-- CP129   Steering races, 2 H835 cup, steering race, 2 H833 cone, steering race, 30 S70-3 ball, steering race $1
+-- CP124   Valves, 1 E3146 valve, inlet, 1 E3147 valve, exhaust $1
+-- CP122   Valve Guides, 2 E3208 valve guide, inlet and exhaust, 2 E3209 Circlip $1
+-- CP123   Valve Springs, 2 E3214 spring, valve inner, 2 E3215 spring, valve outer $1
+
+*page 7
+*title Cylinder Block and Piston
+1  E3142   Barrel, cylinder $1
+2  E3216   Washer, cylinder base $1
+3  CP120   Piston c/w rings, gudgeon pin, etc $1
+4  E3148   Piston, body only (standard) $1
+5  E3148/+ Piston, body only +020" `E3148/20 $1
+6  E3148/+ Piston, body only +040" `E3148/40 $1
+7  E3153   Ring, compression $2
+8  E3153/+ Ring, compression + 020" `E3153/20 $2
+9  E3153/+ Ring, compression + 040" `E3153/40 $2
+10 E3154   Ring, scraper $1
+11 E3154/+ Ring, scraper + 020" `E3154/20 $1
+12 E3154/+ Ring, scraper + 040" `E3154/40 $1
+13 E1750   Pin, gudgeon $1
+14 E1767   Circlip, gudgeon pin $2
+
+*page 7
+*title Cylinder Head
+15 E3143   Head, cylinder c/w guides and adaptor $1
+16 E3217   Gasket, cylinder head $1
+17 E3207   Adaptor, cylinder head exhaust $1
+18 E3210   Stud, rocker inspection cover $2
+19 E1987   Stud, cylinder head to carburetter $2
+20 E3230   Nut, cylinder head to barrel $4
+21 E1719A  Washer, cylinder head to barrel $4
+22 E3146   Valve, inlet $1
+23 E3147   Valve, exhaust $1
+24 E3208   Guide, inlet and exhaust $2
+25 E3209   Circlip, inlet and exhaust guide $2
+*page 8
+1  E3214   Spring, valve inner $2
+2  E3215   Spring, valve outer $2
+3  E3301   Collar, valve spring top $2
+4  E3213   Cup, valve spring bottom $2
+5  WE259A  Cotter, valve split $4
+6  E3251   Rocker, inlet assembly $1
+7  E3252   Rocker, exhaust assembly $1
+8  E3222   Ball pin, rocker $2
+9  E3223   Adjuster, rocker $2
+10 GS662   Locknut, rocker adjuster pin $2
+11 E3225   Spindle, rocker inlet and exhaust $2
+12 E3253   Sealing ring, rocker spindle $2
+13 E2534   Thrust washer, rocker spindle DS 7/16" $2
+14 E2594   Thrust washer, rocker spindle TS 3/8" $2
+15 E3224   Thackeray washer, rocker spindle (spring) $2
+16 E3227   Cover, rocker inlet inspection $1
+17 E3228   Cover, rocker exhaust inspection $1
+18 E3226   Washer, rocker cover joint $2
+19 E3290   Nut, rocker cover to head $2
+20 E2441   Washer, rocker cover to head nut $2
+21 E3235   Rod, push $2
+22 E3238   Cover, push rod $1
+23 E3172   Peg, cover to crankcase locating $1
+24 E3243   Washer, push rod cover joint (upper) $1
+25 E2425   Washer, push rod cover joint (lower) $1
+26 E3285   Tappet $2
+27 E3244   Pipe, rocker oil $1
+28 H400    Nut, rocker oil pipe to spindle $2
+29 E1335   Washer, rocker oil pipe inner joint $2
+30 E3249   Washer, rocker oil pipe outer joint $2
+31 E1947   Connection, oil tank to oil pipe (Rubber) $1
+
+*page 9
+*title Crankcase and Crankshaft
+1  E3155   Flywheels and connecting rod assembly $1
+2  E3156   Flywheel DS c/w mainshaft $1
+3  E3160   Flywheel TS $1
+4  E3158   Mainshaft DS $1
+5  E1580   Key, mainshaft DS to flywheel $1
+6  E3159   Nut, mainshaft DS $1
+7  E3172   Peg, flywheel TS $1
+8  E3163   Rod, connecting c/w bushes $1
+9  E3165   Bush, big end $1
+10 E1762   Bush, small end $1
+11 E3291   Crankpin, c/w plug $1
+12 E3292   Plug, crankpin $1
+13 E3162   Roller, crankpin $15
+14 E3166   Crankcase assembly, c/w bushes $1
+15 E3170   Stud, crankcase to cylinder head $4
+16 E3171   Stud, crankcase to oil junction block $1
+17 T989    Dowel, crankcase TS, to inner cover (hollow) $2
+18 E3169   Dowel, crankcase to oil junction block $1
+19 E3167   Pipe, crankcase oil return $1
+20 E3168   Clip, crankcase oil return pipe $1
+21 T1076   Screw, crankcase oil return pipe $1
+NI ------- Pin, split, 1/16" diameter $1
+22 E3173   Bearing, TS (Plain) $1
+23 E3175   Bush, camshaft $1
+24 E3187   Bush, distributor and oil pump shaft $1
+25 E3177   Filter, crankcase $1
+26 E3176   Spring, crankcase filter $1
+27 E3302   Washer, crankcase filter spring $1
+28 E1564   Cap, crankcase filter $1
+29 E1577   Washer, crankcase filter joint $1
+*page 12
+1  E3178   Pinion, timing and distributor drive $1
+2  E3181   Bolt, timing and distributor pinion $1
+3  E3185   Pinion, camshaft (50T) $1
+4  E3184   Key, camshaft pinion $1
+5  E3183   Camshaft, inlet and exhaust $1
+
+*page 12
+*title Oil Pump
+6  E3186   Pinion and shaft, distributor and oil pump drive $1
+7  E3189   Pump, oil complete $1
+8  E3190   Body, oil pump $1
+9  E3193   Plunger, oil feed $1
+10 E3194   Plunger, oil scavenge $1
+11 E3195   Rod, connecting drive $1
+12 E3196   Pin, connecting rod to plunger $1
+13 S70-4   Ball, oil pump body $2
+14 E3191   Spring, oil pump body $2
+15 E3192   Plug, oil pump body $2
+16 E3197   Bolt, oil pump to crankcase $2
+17 GS299   Lockwasher, oil pump to crankcase (serrated) $2
+18 E3188   Washer, oil pump to crankcase joint $1
+
+*page 12
+*title Engine Sprocket
+19 E3201/+ Sprocket engine 19T `E3201/19 $1
+20 W954    Distance piece, sprocket and rotor $1
+21 H193    Nut, engine mainshaft $2
+
+*page 12
+*title Crankcase Covers
+22 E3150   Cover, crankcase DS outer $1
+-- E3344   Washer, cover joint (REF NUM 22a) $1
+23 E3205   Screw, outer cover, long $4
+24 E3200   Screw, outer cover, short $5
+25 E3198   Cover, crankcase DS inner $1
+26 E3199   Dowel, inner cover to crankcase front $1
+27 T989    Dowel, inner cover to outer cover rear $1
+28 E3152   Bearing, engine flywheel mainshaft $1
+28 E3379   Oil seal, mainshaft bearing (REF NUM 28a) $1
+29 E3200   Screw, inner cover to crankcase $2
+30 DS57    Plug, oil level and drain $2
+31 WE170   Washer, oil level and drain plugs $2
+32 E3305   Plug, oil filler $1
+33 F1880   Washer, oil filler plug $1
+*page 13
+1  E3206   Cover, inner TS c/w bushes and clutch lever $1
+2  E3293   Bush, camshaft $1
+3  E3172   Peg, camshaft bush $1
+4  T1147   Bush, gearbox mainshaft $1
+5  T1149   Plate, inner cover $1
+6  T1148   Washer, inner cover plate (Cork) $1
+7  T1150   Screw, inner cover plate $2
+8  E3204   Screw, inner cover to crankcase (front and rear) $2
+9  E3220   Screw, inner cover to crankcase (short) $1
+10 E3221   Screw, inner cover to crankcase (long) $1
+11 F3339   Vent pipe, inner cover breather (PVC) $1
+12 XA69    Clip, vent pipe to clutch cable $1
+13 E3151   Cover, outer TS $1
+-- E3345   Washer, cover joint (REF NUM 13a) $1
+14 E3221   Screw, outer TS cover (long) $1
+15 E3231   Screw, outer TS cover (medium) $7
+16 E3220   Screw, outer TS cover (short) $1
+17 GST15/+ Gasket set `GST15/53 $1
+
+*page 14
+*title Gearbox
+1  T1083   Gear cluster, mainshaft (3rd and low) (sold as assembly only) $1
+2  T1119   Key, mainshaft to clutch $1
+3  T1085   Bush, mainshaft clutch rod $1
+4  T1078   Gear, mainshaft high c/w bush $1
+5  T1080   Bush, mainshaft high $1
+6  T1089   Gear, mainshaft 2nd $1
+7  T1090   Thrust ring, mainshaft 2nd gear $1
+8  T1091   Gear, cluster, layshaft (top and 2nd) (sold as assembly only) $1
+9  T1094   Gear, layshaft 3rd $1
+10 T1095   Gear, layshaft low c/w bush $1
+11 T1097   Bush, layshaft low gear $1
+12 T1098   Fork, mainshaft and layshaft selector $2
+13 T1102   Spindle, selector fork $1
+14 T1066   Camplate assembly $1
+15 T1069   Spindle, camplate $1
+16 ------- Split pin, camplate to spindle, 3/32"x1" $1
+17 T1075   Spring, camplate index $1
+18 T1076   Screw, camplate index spring $2
+19 T1180   Lockwasher, camplate index spring $1
+20 T1164   Pedal, footchange $1
+21 W932    Bolt, footchange pedal $1
+22 T1103   Spindle, quadrant and plunger assembly $1
+23 T1181   Feltwasher, footchange spindle $1
+24 T1108   Plunger, footchange gear selector $2
+25 T1107   Spring, footchange gear selector plunger $2
+26 ------- Split pin, footchange gear selector plunger, 1/16"x3/4" $2
+27 T1109   Spring, footchange return $1
+28 T1077   Pin, footchange return spring anchorage $1
+29 E2287   Washer, footchange return spring anchorage $1
+30 T449    Rubber, footchange pedal $1
+*page 15
+1  T1070   Bearing, DS gearbox mainshaft (ball) $1
+2  T1071   Oil seal, DS bearing (felt) $1
+3  T1072   Plate, DS bearing seal retaining $1
+4  T1073   Bearing, DS gearbox layshaft (plain) $1
+5  E3172   Peg, layshaft bearing locating $1
+6  T1074   Disc, DS gearbox layshaft bearing $1
+*page 16
+1  T1165   Kickstarter assembly, folding $1
+2  T1166   Crank, kickstarter $1
+3  T1168   Pedal kickstarter crank $1
+4  T1169   Bolt, kickstarter crank to pedal $1
+5  S70-3   Ball, kickstarter crank to pedal $1
+6  T1167   Spring, kickstarter crank to pedal $1
+7  S52-1   Cotter, kickstarter crank c/w nut and washer $1
+8  T1116    Spindle, kickstarter c/w bush $1
+9  T1118   Bush, kickstarter spindle $1
+10 T1159   Pawl, kickstarter $1
+11 T1160   Plunger, kickstarter pawl $1
+12 T1161   Spring, kickstarter plunger $1
+13 T1162   Spring, kickstarter return $1
+14 T1163   Plate, kickstarter return spring anchor $1
+15 T1157   Plate, kickstarter stop $1
+16 T1158   Screw, kickstarter stop plate $1
+17 T1081   Sprocket, gearbox $1
+18 T1082   Nut, gearbox sprocket $1
+19 T1110   Plug, gearbox filler $1
+20 E697    Washer, gearbox filler plug $1
+21 T1112   Plug, gearbox drain $1
+22 F1511   Washer, gearbox drain plug $1
+23 T361    Plug, gearbox level $1
+24 WE170   Washer, gearbox level plug $1
+25 T1120   Clutch complete $1
+26 T1136   Nut, clutch to mainshaft $1
+27 T1182   Washer, clutch to mainshaft nut $1
+28 T1122   Sprocket c/w bearing and cork inserts $1
+29 T1124   Ball, clutch sprocket bearing (See Page 57 before ordering T1202 replaces !!!) $58
+30 T1125   Plate, clutch sprocket bearing retaining (See Page 57 before ordering) $2
+31 T1126   Rivet, clutch sprocket retaining plate (See Page 57 before ordering) $5
+32 T1127   Cork insert, clutch sprocket $20
+33 T1137   Plate, clutch driven (plain) $2
+34 T1138   Plate, clutch driving (corked) $2
+35 NT288   Cork insert, clutch driving plate $40
+
+*page 18
+*title Clutch
+1  T1141   Plate, clutch pressure c/w button $1
+2  T1143   Button, clutch pressure plate thrust $1
+3  T1145   Spring, clutch pressure $3
+4  T1144   Cup, clutch spring $3
+5  T1146   Nut, clutch spring $3
+6  T1129   Centre clutch $1
+7  T1130   Cup, clutch centre driving $3
+8  T1128   Plate, clutch backing $1
+9  T1134   Pin, clutch backing plate $3
+10 T1131   Spider, clutch $1
+11 T1132   Rubber, clutch drive $3
+12 T1133   Rubber, clutch rebound $3
+13 T1151   Lever, clutch operating assembly $1
+14 T1153   Lever, clutch operating $1
+15 T1154   Pin, operating lever fulcrum $1
+16 T1155   Cup, operating lever thrust $1
+17 T1124   Ball, cup to rod $1
+18 ------- Split-pin, cup to lever, 1/16"x1/2" $1
+19 T1152   Fulcrum, clutch operating lever $1
+20 T1140   Rod, clutch operating $1
+
+*page 18
+*title Exhaust
+21 E3257   Pipe, exhaust $1
+22 E3259   Clip, exhaust pipe to cylinder head $1
+23 E3260   Bolt, exhaust pipe to cylinder head $1
+24 S25-13  Washer, exhaust pipe to cylinder head clip bolt $1
+25 E3261   Silencer $1
+26 E3269   Clip, silencer to exhaust pipe $1
+27 TE164E  Bolt, silencer to exhaust pipe clip $1
+28 TE164D  'D' Washer, silencer to exhaust pipe clip bolt $1
+39 TE164C  'D' Nut, silencer to exhaust pipe clip bolt $1
+30 F929    Bolt, silencer to frame $1
+31 S1-51   Nut, silencer to frame bolt $1
+32 S26-2   Washer, silencer to frame bolt $1
+
+*page 19
+*title Frame
+1  F3390   Frame, c/w rear suspension $1
+2  F3391   Frame, only $1
+3  F1760   Bolt, front and rear engine mounting $2
+4  E2774   Bolt, lower engine mounting $1
+5  W76     Nut, engine mounting bolt $3
+6  GS308   Washer, engine mounting bolt $3
+
+*page 19
+*title Rear Suspension
+7  F3455   Fork end, RH c/w grease nipple $1
+8  F3454   Fork end, LH c/w pin and grease nipple $1
+9  NW100   Nipple, fork end grease $2
+10 F3424   Pin, fork end brake anchorage $1
+11 F3422   Backing washer, plunger lug (top) $2
+12 F3577   Cup, plunger lug (bottom) $2
+13 F3423   Gaiter, plunger lug bottom (rubber) $2
+14 F3425   Spring, suspension main $2
+15 F3426   Spring, suspension rebound $2
+16 F3427   Cover, suspension spring (lower) $2
+17 F3428   Cover, suspension spring (upper) $2
+18 F3429   Rod, plunger guide $2
+19 F3430   Bolt, plunger guide to lug clamp $2
+20 E470    Nut, plunger guide to lug clamp $2
+21 S25-3   Washer, plunger guide to lug clamp $2
+
+*page 19
+*title Centre Stand
+22 F3469   Stand, c/w fittings $1
+23 F3438   Stand, only $1
+24 F3519   Spring, stand $1
+25 F3520   Bolt, stand pivot, L/H $1
+26 F3521   Bolt, stand pivot, R/H $1
+27 DS47    Nut, pivot bolt $2
+
+*page 24
+*title Telescopic Front Fork
+1  H827    Fork, assembly $1
+2  H828    Lug, fork stem and middle $1
+3  H834    Bolt, middle lug pinch $2
+4  H518    Nut, middle lug pinch bolt $2
+5  S25-3   Washer, middle lug pinch bolt $4
+6  H837    Lug, fork top $1
+7  H570    Bolt, fork top lug clamp $1
+8  S1-51   Nut, fork top lug clamp bolt $1
+9  S25-3   Washer, fork top lug clamp bolt $1
+10 H840    Sleeve nut, fork stem $1
+11 H843    Stanchion fork c/w bush $2
+12 NW100   Grease nipple, stanchion $2
+13 H845    Bush, stanchion bottom $2
+14 H846    Nut, stanchion to top lug $2
+15 H903    Buffer, stanchion rubber $2
+16 H902    Washer, stanchion rubber buffer $2
+17 H847    Spring, fork c/w studs, etc $2
+18 H850    Stud, fork spring (short) top $2
+19 H851    Stopnut, fork spring (bottom) $2
+20 H852    Rod, fork spring anchor (bottom) $2
+21 S1-51   Nut, fork spring (short) stud $2
+22 H853    Member, outer lower c/w cap $2
+23 H856    Cap, outer lower member lug spindle $2
+24 W932    Bolt, outer lower member lug spindle $4
+25 E1612   Washer, outer lower member lug spindle $4
+26 H857    Clip, brake anchorage $1
+27 H860    Bush, outer lower member top $2
+*page 25
+1  H861    Sleeve nut, outer lower member $2
+2  H862    Washer, sleeve nut (steel) $2
+3  H863    Washer, sleeve nut (felt) $2
+4  H823    Nacelle, bottom unit $1
+5  H822    Nacelle, top unit $1
+6  H877    Flash, LH (Motif) $1
+7  H878    Flash, RH (Motif) $1
+8  H688    Screw, flash and top and bottom unit $2
+9  H691    Nut, flash and top and bottom unit $2
+10 E2880   Washer, flash and top and bottom unit $2
+11 H916    Screw, flash and top and bottom unit (centre) $2
+12 H689    Screw, top and bottom unit (rear) $2
+13 H691    Nut, top and bottom unit (rear) $2
+14 E2880   Washer, top and bottom unit (rear) $2
+15 H835    Cup, steering race (top and bottom) $2
+16 H833    Cone, steering race (top and bottom) $2
+17 S70-3   Ball, steering race (top and bottom) $30
+18 H836    Cover, steering race dust $1
+19 D261    Holder, licence $1
+
+*page 27
+*title Front Wheel
+1  W1001   Wheel, complete front $1
+2  W960    Wheel, less bearing brake assembly, etc $1
+3  W1002   Rim, front wheel WM1-19 $1
+4  W964/5  Spoke and nipple, RH 90 $20
+5  W963/5  Spoke and nipple, LH 90 $20
+6  W965    Nipple, spoke $40
+7  W961    Hub and brake drum assembly $1
+8  W967    Spindle, front wheel $1
+9  W980    Nut, front wheel spindle to anchor plate $1
+10 T530    Bearing, front wheel LH $1
+11 W966    Dust cap, front wheel LH $1
+12 T532    Circlip, front wheel LH dust cap $1
+13 H826    Bearing, front wheel RH $1
+14 W968    Ring, front wheel RH locking $1
+15 W969    Plate, front brake anchor $1
+16 W973    Cam assembly, front brake $1
+17 W976    Lever, front brake $1
+18 T224    Nut, front brake lever $1
+19 S25-2   Washer, front brake lever $1
+20 W977    Shoe, front brake c/w lining $2
+21 W978    Lining, front brake $2
+22 W979    Rivet, front brake lining $12
+23 W200    Spring, front brake shoe $2
+24 S1-52   Nut, front brake anchorage to clip $1
+25 S26-1   Washer, front brake anchorage to clip $1
+
+*page 29
+*title Rear Wheel
+1  W1004   Wheel complete, rear $1
+2  W981    Wheel, less bearings, brake assembly, etc $1
+3  W1002   Rim, rear wheel, WM1-19 $1
+4  W964/5  Spoke and nipple, LH 90 $20
+5  W963/5  Spoke and nipple, RH 90 $20
+6  W965    Nipple, spoke $40
+7  W982    Hub and brake drum assembly $1
+8  W984/48 Sprocket, rear wheel 48T $1
+9  W985    Bolt, rear wheel sprocket $8
+10 E1612   Washer, rear wheel sprocket $8
+11 W989    Spindle, rear wheel $1
+12 W1000   Nut, rear wheel spindle $2
+13 H826    Bearing, rear wheel RH and LH $2
+14 W987    Backing ring, rear wheel bearing RH $1
+15 W988    Locking ring, rear wheel bearing LH $1
+16 W954    Distance piece, rear wheel spindle, inner RH $1
+17 W995    Distance piece, rear wheel spindle, outer RH $1
+18 W990    Plate, rear brake anchor $1
+19 W973    Cam assembly, rear brake $1
+20 W993    Lever, rear brake $1
+21 T224    Nut, rear brake lever $1
+22 S25-2   Washer, rear brake lever $1
+23 W977    Shoe, rear brake c/w lining $2
+24 W978    Lining, rear brake $2
+25 W979    Rivet, rear brake $12
+26 W200    Spring, rear brake shoe $2
+*page 30
+1  W996    Adjuster, rear chain $2
+2  W999    End plate, rear chain adjuster $2
+3  F879    Nut, rear chain adjuster $2
+
+*page 30
+*title Front Mudguard
+4  H868    Mudguard, front $1
+5  H871    Stay, front mudguard, LH $1
+6  H872    Stay, front mudguard, RH $1
+7  DS57    Bolt, front mudguard stay $4
+8  F879    Nut, front mudguard stay $4
+9  E1612   Washer, front mudguard stay $4
+10 H873    Clip, nacelle to centre bridge $2
+11 GS218   Bolt, nacelle to centre bridge clip $2
+12 F879    Nut, nacelle to centre bridge clip $2
+13 E1612   Washer, nacelle to centre bridge clip $2
+14 F3023   Distance piece, stay bolt $2
+15 GS218   Bolt, stay to fork lug bottom $2
+16 E1612   Washer, stay to fork lug bottom $2
+
+*page 32
+*title Rear Mudguard
+1  F3479   Mudguard, rear $1
+2  F3484   Stay, rear mudguard LH $1
+3  F3488   Stay, rear mudguard RH $1
+4  DS57    Bolt, rear mudguard stays $4
+5  F879    Nut, rear mudguard stays $4
+6  E1612   Washer, rear mudguard stays $4
+7  E470    Nut, rear mudguard stays to plunger clamp bolt $2
+8  F1369   Bolt, rear mudguard to bridge $1
+9  E1612   Washer, rear mudguard to bridge $1
+10 F879    Nut, rear mudguard to bridge $1
+11 F3483   Backing strip, mudguard to frame bridge $1
+12 DS57    Bolt, backing strip $2
+13 E1612   Washer, backing strip bolt $2
+14 F879    Nut, backing strip bolt $2
+15 F3327   Grommet for mudguard unused holes REAR CARRIER $2
+16 F3523   Carrier, rear $1
+17 DS57    Bolt, carrier to mudguard front $1
+18 F879    Nut, carrier to mudguard front $1
+19 S26-2   Use Washer, carrier to mudguard front rear number plate top bolt to secure carrier rear bracket $1
+
+*page 32
+*title Front Number Plate
+20 H874    Plate, front number $1
+21 H741    Clip, assembly front number plate $2
+22 H687    Screw, assembly front number plate to clip $2
+23 H745    Nut, front number plate to clip screw $2
+
+*page 32
+*title Rear Number Plate
+24 F3508   Plate, rear number (Use Part No F3508 Exp when Stop Tail Lamp (525) is fitted) $1
+25 F929    Bolt, rear number and carrier top $1
+26 S1-51   Nut, rear number, top bolt $1
+27 S26-3   Washer, rear number, top bolt $1
+28 D274    Reflector, c/w Nut $2
+29 D68     Transfer, rear number plate motif $1
+
+*page 33
+*title Rear Chainguard
+1  F3431   Chainguard, rear $1
+2  DS57    Bolt, chainguard to crankcase $1
+3  S26-2   Washer, chainguard to toolbox, front $1
+4  F3436   Screw, chainguard to mudguard, lower $1
+5  F3437   Distance piece, chainguard to mudguard, lower $1
+6  H745    Nut, chainguard to mudguard, lower $1
+7  DS57    Bolt, chainguard to mudguard stay $1
+
+*page 33
+*title Toolbox, Battery Carrier and Air Cleaner
+8  F3491   Toolbox, battery and air cleaner assembly casing $1
+9  F3470   Pad, battery, rubber moulded $1
+10 F3418   Container, air cleaner $1
+11 H251    Beading, air cleaner container, rubber $1
+12 F3492   Element, air cleaner $1
+13 F3471   Screw, air cleaner to case $1
+14 S25-13  Washer, air cleaner to case $1
+15 F3473   Strap, battery case $1
+16 F3472   Hook-bolt, battery case strap and lid $1
+17 F879    Nut, battery case hook bolt $1
+18 F3493   Lid, casing c/w knob $1
+19 F3474   Knob, casing lid $1
+20 F3475   Circlip, casing lid knob $1
+21 F3478   Connector, air cleaner to carburetter $1
+22 F3208   Grommet, wiring harness and oil tank vent $1
+
+*page 34
+*title Tools
+1  D290    Tool kit, complete $1
+2  D291    Tool bag $1
+3  D299    Spanner, open ended, 3/8" x 7/16" Whit $1
+4  D292    Spanner, open ended, 1/8" x 3/16 x 1/4" 5/16" Whit $1
+5  D293    Spanner, combination square x 3/16" x 5/16" x 1/2" Whit $1
+6  D294    Spanner, screwdriver and box, 1/4" Whit $1
+7  DA70    Key, clutch adjusting $1
+8  NA14A   Lever, tyre $1
+9  D296    Inflator, tyre (not included in D290) $1
+
+*page 37
+*title Petrol Tank
+1  F3505   Tank, petrol, less fittings $1
+2  F3220   Cap, petrol tank $1
+3  F3494   Styling band, petrol tank LH $1
+4  F3495   Styling band, petrol tank RH $1
+5  F3496   Name plate, petrol tank $2
+6  F3497   Screw, name plate and band to tank $4
+7  F3498   Bolt, petrol tank to frame $2
+8  S1-51   Nut, petrol tank to frame bolt $2
+9  S25-3   Washer, petrol tank to frame bolt $3
+9  F3098   Clip, LH front bolt (REF NUM 9a) $1
+10 F3506   Tap, petrol tank $1
+11 E697    Washer, petrol tank tap joint $1
+12 F3499   Pipe, petrol feed $1
+13 F1605   Knee grip, petrol tank RH $1
+14 F1606   Knee grip, petrol tank LH $1
+
+*page 37
+*title Oil Tank
+15 F3464   Tank, oil, less fittings $1
+16 F3216   Cap, oil tank $1
+17 F3465   Filter, oil tank $1
+18 F1511   Washer, oil tank filter joint $1
+19 F2596   Bolt, oil tank to frame bottom $1
+20 F3477   Distance piece, oil tank bottom $1
+21 S1-51   Nut, oil tank bolt $2
+22 F3468   Bolt, oil tank to frame top $1
+23 F3476   Distance piece, oil tank top $2
+*page 38
+1  S25-3   Washer, oil tank top bolt $1
+2  E3270   Pipes, oil tank to engine $1
+3  F3503   Pipe, oil tank feed, top half $1
+4  F3504   Nut, oil tank feed, top half union $1
+5  F3077   Connection, oil tank feed and return pipes $2
+6  E3274   Washer, oil tank pipe junction block joint $1
+7  F879    Nut, junction block to crankcase $1
+8  S25-13  Washer, junction block to crankcase nut $1
+9  A3      Transfer (minimum oil level) $1
+
+*page 38
+*title Footrests
+10 F3449   Footrest, rider LH $1
+11 F3450   Footrest, rider RH $1
+12 F1695   Rubber, footrest $2
+13 F3448   Rod, footrest hanger $1
+14 H193    Nut, footrest hanger rod $2
+*page 38
+15 F3514   Footrest, pillion complete $2
+16 F1694   Pedal, footrest $2
+17 F1695   Rubber, footrest pedal $2
+18 F2271   Bolt, footrest pedal pivot $2
+19 S1-51   Nut, footrest pedal pivot bolt $2
+20 F2277   Washer, footrest pedal pivot bolt $2
+21 F2268   Hanger, footrest pedal $2
+22 F3515   Stud, footrest pedal $2
+23 PO172A  Nut, footrest pedal stud $2
+24 S26-1   Washer, footrest pedal stud $2
+
+*page 39
+*title Rear Brake Pedal
+1  F3456   Pedal, rear brake $1
+2  F3459   Spindle, rear brake pedal $1
+3  S1-51   Nut, brake pedal spindle to frame $1
+4  S26-3   Washer, brake pedal spindle to frame $1
+5  T224    Nut, brake pedal to spindle $1
+6  S25-3   Washer, brake pedal to spindle $1
+7  F3460   Rod, rear brake operating $1
+8  F3461   Washer, rear brake rod to pedal $1
+9  F3594   Washer, rear brake rod to pedal (for stop lamp) $1
+NI ------- Split-pin, rear brake rod to pedal, 1/16"x1/2" $1
+10 F3462   Pivot-pin, rear brake rod to lever $1
+11 F3463   Adjuster, rear brake rod $1
+
+*page 39
+*title Handlebar and Control Levers
+12 H866    Handlebar c/w control levers and twistgrip $1
+13 H867    Handlebar bend only $1
+14 H881    Grommet, handlebar to nacelle $2
+15 H864    Support, handlebar to top lug $2
+16 H865    'U' bolt, handlebar to top lug $2
+17 F879    Nut, handlebar to top lug $4
+18 S25-13  Washer, handlebar to top lug $4
+19 H885    Grip, handlebar, rubber $1
+20 H879    LH Lever, clutch control $1
+20 H879    RH Lever, front brake control (REF NUM 20a) $1
+21 H880    Screw, lever to bracket $2
+22 F879    Nut, lever to bracket screw $2
+23 S26-2   Washer, lever to bracket nut $2
+
+*page 41
+*title Twistgrip
+1  H883    Twistgrip complete $1
+2  H905    Body, twistgrip $1
+3  H906    Grub screw, body fixing $3
+4  H907    Spring, body to rotor tension $1
+5  H908    Rivet, body to rotor tension spring $1
+6  H909    Rotor sleeve, twistgrip $1
+7  H906    Grub screw, cable to rotor fixing $1
+8  H910    Clip, twistgrip body $1
+9  H911    Screw, twistgrip body clip $2
+10 H912    Adjuster, throttle cable $1
+11 H913    Locknut, throttle cable adjusting $1
+12 H884    Grip, twistgrip rubber $1
+
+*page 41
+*title Front Brake Cable
+13 D278    Cable assembly, front brake $1
+14 D278C   Casing, front brake cable $1
+15 D278W   Wire, front brake cable $1
+16 D102    Ferrule, front brake cable casing $2
+17 18/107  Nipple, front brake cable wire (Handlebar end) $1
+18 DS73    Nipple, front brake cable wire (Clutch end) $1
+19 D279    Adjuster, front brake cable $1
+20 F879    Nut, front brake cable adjuster $1
+21 D280    Clevis, front brake cable wire $1
+22 D281    Pin, front brake cable clevis $1
+23 ------- Split-pin, clevis pin, 1/16"x1/2" $1
+
+*page 41
+*title Throttle Cable
+24 D289    Cable assembly, throttle $1
+25 D289C   Casing, throttle cable $1
+26 D289W   Wire, throttle cable $1
+27 12/083  Ferrule, throttle casing $2
+28 D83     Nipple, throttle wire (Twistgrip) $1
+29 NS191   Nipple, throttle wire (Carburetter) $1
+
+*page 42
+*title Gear Indicator Cable
+1  D282    Cable assembly, gear indicator $1
+2  D282C   Casing, gear indicator cable $1
+3  D282W   Wire, gear indicator cable $1
+4  12/083  Ferrule, gear indicator casing $2
+5  D285    Nipple, gear indicator cable (Engine end) $1
+6  18/115  Nipple, gear indicator casing (Indicator end) $2
+7  E3280   Abutment, gear indicator cable c/case $1
+8  D283    Spring, gear indicator cable $1
+9  D284    Adjuster, gear indicator cable $1
+10 H745    Locknut, gear indicator cable adjuster $1
+
+*page 42
+*title Clutch Cable
+11 D287    Cable assembly, clutch $1
+12 D287C   Casing, clutch cable $1
+13 D287W   Wire, clutch cable $1
+14 D1O1    Ferrule, clutch cable casing $2
+15 18/107  Nipple, clutch wire (Handlebar end) $1
+16 18/147  Nipple, clutch cable (Clutch end) $1
+17 D267    Adjuster, clutch cable $1
+18 D268    Locknut, clutch cable $1
+19 D288    Abutment, clutch cable (Handlebar end) $1
+20 16/011  Abutment, clutch cable (Clutch end) $1
+
+*page 42
+*title Nacelle Gear Indicator
+21 H887    Rack and pinion assembly, indicator $1
+22 H890    Spindle assembly, indicator $1
+23 H689    Screw, rack and pinion to nacelle $2
+24 H894    Finger assembly, indicator $1
+25 H904    Plate, gear indicator $1
+26 H689    Screw, indicator position plate $2
+
+*page 44
+*title Electrical Equipment	
+1  ------- Alternator assembly (RM13) *Lucas_047502 $1
+2  E3203   Grommet, alternator cable $1
+3  E3204   Screw, alternator stator to cover $5
+4  E1580   Key, rotor to mainshaft $1
+5  ------- Rectifier (FSW 1500A) *Lucas_47103A $1
+6  F3527   Bracket, rectifier mounting $1
+7  F929    Bolt, bracket to seat lug (front) $1
+8  S25-3   Washer, bracket to seat lug (front) $1
+9  DS57    Bolt, bracket to top bridge seat stays $1
+10 F879    Nut, bracket to top bridge seat stays $1
+11 E1612   Washer, bracket to top bridge seat stays $1
+12 E2922   Nut, rectifier to bracket IGNITION COIL (CQ6) $1
+13 ------- Coil *Lucas_45036A $1
+14 DS57    Bolt, coil to mudguard $2
+15 E1612   Washer, coil to mudguard bolt $2
+16 F3528   Backing strip, coil to mudguard DISTRIBUTOR (15DI—RO19) $1
+17 ------- Distributor *Lucas_40399A $1
+18 ------- Clamping plate assembly *Lucas_406105 $1
+19 ------- Contact set *Lucas_421106 $1
+20 ------- Condenser *Lucas_421327 $1
+21 ------- Cam *Lucas_421043 $1
+22 ------- Spring, auto advance *Lucas_416199/S $1
+23 ------- Weights assembly *Lucas_421056/S $1
+24 ------- Shaft and action plate *Lucas_421053 $1
+25 ------- Sundry parts set *Lucas_419645 $1
+26 DS57    Bolt, lever to crankcase $1
+27 S25-13  Washer, lever to crankcase bolt $1
+28 E3309   Sealing ring, distributor $1
+29 ------- Battery (PU35E) *Lucas_4082000 $1
+30 ------- Headlamp assembly (MCF 575) *Lucas_51519A $1
+31 ------- Rim, headlamp *Lucas_516723 $1
+32 ------- Screw, rim fixing *Lucas_516710 $1
+33 ------- Wire, light unit fixing *Lucas_500291 $4
+*page 45
+12 ------- Light unit *Lucas_516728 $1
+13 ------- Adaptor assembly *Lucas_554946 $1
+14 ------- Bulbholder, pilot *Lucas_554710 $1
+15 ------- Interior, pilot *Lucas_553780 $1
+16 ------- Bulb, main *Lucas_312 $1
+17 ------- Bulb, pilot *Lucas_988 $1
+18 H876    Adjuster screw, headlamp $1
+19 H745    Locknut, adjuster screw $1
+20 H875    Spring, adjuster screw $1
+
+*page 45
+*title Lighting and Ignition Switch	
+21 ------- Switch, lighting & ignition (PR S8) *Lucas_31443 $1
+NI ------- Key, ignition $1
+22 ------- Switch, dipper *Lucas_380521 $1
+23 ------- Lamp, tail (529) *Lucas_53256A $1
+24 ------- Lens *Lucas_526404 $1
+25 ------- Window, number plate *Lucas_526406 $1
+26 ------- Screw, fixing lens *Lucas_133551 $2
+27 ------- Gronrimet, screw *Lucas_573825 $2
+29 ------- Bulb holder *Lucas_554719 $1
+30 ------- Base, rubber *Lucas_526408 $1
+31 ------- Bulb *Lucas_988 $1
+32 ------- Screw, lamp to number plate *Lucas_526410 $3
+33 ------- Nut, lamp to number plate *Lucas_166103 $3
+34 ------- Washer, lamp to number plate *Lucas_188366 $3
+
+*page 45
+*title Stop and Tail Lamp	
+35 ------- Lamp, stop tail (525) *Lucas_53269A $1
+36 ------- Lens *Lucas_573819 $1
+37 ------- Screw, lens fixing *Lucas_572072 $2
+38 ------- Grommet, lens fixing screw *Lucas_573825 $2
+39 ------- Bulb holder *Lucas_860428 $1
+40 ------- Gasket, rubber *Lucas_573814 $1
+41 ------- Bulb *Lucas_352 $1
+42 ------- Nut, lamp to number plate *Lucas_166014 $2
+43 ------- Washer, lamp to number plate *Lucas_188330 $2
+44 ------- Switch lamp *Lucas_31437A $1
+45 F3158   Spring, lamp switch $1
+
+*page 45
+*title  Wiring Harness	
+46 ------- Harness wiring *Lucas_835951 $1
+
+*page 45
+*title  Horn	
+47 HF150   Horn (Clear Hooter) $1
+48 H886    Button, horn (No 15) $1
+
+*page 46
+*title Carburetter
+1  ------- Carburetter, complete *Amal_332/1 $1
+2  ------- Body, mixing chamber *Amal_332/001 $1
+3  ------- Cap, mixing chamber *Amal_332/012 $1
+4  ------- Spring, mixing chamber cap *Amal_332/013 $1
+5  ------- Screw, mixing chamber cap spring and throttle locating *Amal_332/014 $1
+6  ------- Air valve assembly *Amal_ $1
+7  ------- Adjuster, throttle cable *Amal_52/068 $1
+8  ------- Valve, throttle *Amal_332/005 $1
+9  ------- Spring, throttle valve *Amal_332/021 $1
+10 ------- Screw, throttle adjusting *Amal_332/018 $1
+11 ------- Nut, throttle adjusting screw *Amal_332/020 $1
+12 ------- Screw, air adjusting *Amal_332/017 $1
+13 ------- Spring, air adjusting screw *Amal_4/148 $1
+14 ------- Jet for needle *Amal_332/002 $1
+15 ------- Needle for jet *Amal_332/003 $1
+16 ------- Clip, jet needle *Amal_332/004 $1
+17 ------- Jet, main (size ICO) *Amal_4/042 $1
+18 ------- Jet, pilot *Amal_332/016 $1
+19 ------- Screw, pilot jet and mixing chamber *Amal_333/016 $2
+20 ------- Washer, pilot jet and mixing plug chamber *Amal_14/189 $2
+21 ------- Bolt, holding *Amal_4/043 $1
+22 ------- Washer, holding bolt *Amal_4/053 $2
+*page 48
+1  ------- Float chamber complete *Amal_3EB $1
+2  ------- Body, float chamber *Amal_62/214 $1
+3  ------- Cover, float chamber complete *Amal_62/212 $1
+4  ------- Screws, float chamber cover *Amal_62/204 $2
+5  ------- Float *Amal_22/016 $1
+6  ------- Needle, float *Amal_22/013 $1
+7  ------- Tickler *Amal_62/207 $1
+8  ------- Spring, tickler *Amal_352/208 $1
+9  ------- Screw, tickler spring fixing *Amal_352/207 $1
+10 ------- Locknut, seating *Amal_14/178 $1
+11 ------- Washer, seating locknut *Amal_14/175 $1
+12 E3254   Block, insulating carb to head $1
+13 E3250   Joint washer, carb to head $2
+14 F879    Nut, carburetter flange $2
+15 S25-13  Washer, carburetter flange nuts $2
+
+*page 48
+*title Speedometer
+16 ------- Speedometer 70 mph non-trip *Smiths_80421/9/2 $1
+17 ------- Speedometer 120 kph non-trip *Smiths_80421/1/2 $1
+18 ------- Fixing strap, speedometer to nacelle *Smiths_31/4/2/1 $1
+19 ------- Nut, fixing strap *Smiths_31/1/7 $1
+20 D286    Cable assembly speedometer drive, 49" long (53395) $1
+21 D286C   Casing, speedometer drive outer (53398) $1
+22 D286W   Wire, speedometer drive inner (52108/1) $1
+23 D175    Gearbox, speedometer drive (52283/64/3) $1
+
+*page 48
+*title Sparking Plug
+24 H14     Plug, sparking (Lodge) $1
+25 L10S    Plug, sparking (Champion) $1
+26 F70     Plug, sparking (KLG) $1
+27 D297    Cover, sparking plug $1
+
+*page 49
+*title Seats
+1  F3501   Saddle (state manufacturer, Terry or Wright) $1
+2  F3501C  Cover, saddle (state manufacturer, Terry or Wright) $1
+3  F3501D  Springs, saddle main (state manufacturer, Terry or Wright) $2
+4  W76     Nut, saddle bracket to frame $4
+5  F3502   Stud, saddle bracket to frame $2
+6  S25-2   Washer, saddle bracket to frame $4
+7  F3529   Twinseat c/w Attachments $1
+8  F3535   Bracket, Twinseat Centre $1
+9  F879    Nut, centre bracket to pan, twinseat $2
+10 E1612   Washer, centre bracket to pan, twinseat $2
+11 F3536   Stud, centre bracket to frame, twinseat $2
+12 PO172A  Nut, centre bracket to frame, twinseat $2
+13 S26-1   Washer, centre bracket to frame, twinseat $2
+14 E667    Bolt, front bracket to frame, twinseat $1
+15 S1-51   Nut, front bracket to frame, twinseat $1
+16 S26-3   Washer, front bracket to frame, twinseat $1
+17 DS57    Bolt, rear bracket to mudguard, twinseat $2
+18 F879    Nut, rear bracket to mudguard, twinseat $2
+19 E1612   Washer, rear bracket to mudguard, twinseat $2
+20 F3522   Seat, pillion $1
+21 S23-42  Bolt, pillion seat fixing $4
+22 S4-9    Nut, pillion seat fixing $4
+23 S25-1   Washer, pillion seat fixing $4
+
+*page 49
+*title Chains 
+24 D276    Chain, primary endless, 110038, 3/8" x 1/2" x 62 Links $1
+25 D277    Chain, rear, 110044, 1/2" x 0.335" x 112 Links $1
+*end
